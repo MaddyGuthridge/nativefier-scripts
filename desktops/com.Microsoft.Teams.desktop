@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Microsoft Teams
+Comment=Microsoft Teams
+Icon=com.Microsoft.Teams
+Exec=/home/migue/Tweaks/nativefier-scripts/build/MicrosoftTeams-linux-x64/MicrosoftTeams
+Terminal=false
+Type=Application
+StartupWMClass=MicrosoftTeams
+Categories=Internet;

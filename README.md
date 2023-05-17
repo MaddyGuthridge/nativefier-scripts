@@ -29,3 +29,15 @@ app and it'll link the desktop entry and the icon for you. For example, to link
 Facebook Messenger: `./link-desktop.sh com.Facebook.Messenger`. Note that this
 doesn't ensure that the files exist, so be careful not to make typos or they
 won't work.
+
+## Fixing icons
+
+Icons don't seem to work correctly under Wayland unless you do some hacking
+around.
+
+To fix the icons for an app, go into it's build folder, then go to
+`resources/app/package.json`. Change the app name to be its app ID (eg
+`com.Facebook.Messenger`) and hit save. This should cause it to work in most
+places.
+
+Fix grabbed from [this GitHub issue](https://github.com/nativefier/nativefier/issues/1276).

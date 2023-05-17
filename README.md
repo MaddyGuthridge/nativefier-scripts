@@ -2,9 +2,16 @@
 
 A collection of scripts and icons to make it speedier to "nativefy" web apps.
 
-I've made it public so other people can benefit from them, but they're mainly
-for my own personal use. As such I probably won't accept improvements or
-additions.
+You'll need [Nativefier](https://github.com/nativefier/nativefier) installed
+for these to work.
+
+`npm i -g nativefier`
+
+I've made these scripts public so other people can benefit from them, but
+they're mainly for my own personal use. As such I probably won't accept
+improvements or additions. I don't want this to become some huge repository of
+random scripts for making random apps. Feel free to copy and modify the scripts
+as required if you want to use your own apps with it.
 
 ## Building apps
 

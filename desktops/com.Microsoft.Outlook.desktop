@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Outlook
+Comment=Microsoft Outlook
+Icon=com.Microsoft.Outlook
+Exec=/home/migue/Tweaks/nativefier-scripts/build/Outlook-linux-x64/Outlook
+Terminal=false
+Type=Application
+StartupWMClass=Outlook
+Categories=Internet;Email;Office

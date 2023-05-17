@@ -7,4 +7,4 @@ Exec=/home/migue/Tweaks/nativefier-scripts/build/MicrosoftTeams-linux-x64/Micros
 Terminal=false
 Type=Application
 StartupWMClass=MicrosoftTeams
-Categories=Internet;
+Categories=Internet;Office;

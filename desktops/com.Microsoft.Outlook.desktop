@@ -2,7 +2,7 @@
 [Desktop Entry]
 Name=Outlook
 Comment=Microsoft Outlook
-Icon=com.Microsoft.Outlook
+Icon=/home/migue/.local/share/icons/hicolor/512x512/com.Microsoft.Outlook.png
 Exec=/home/migue/Tweaks/nativefier-scripts/build/Outlook-linux-x64/Outlook
 Terminal=false
 Type=Application

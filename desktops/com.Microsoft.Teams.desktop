@@ -2,7 +2,7 @@
 [Desktop Entry]
 Name=Microsoft Teams
 Comment=Microsoft Teams
-Icon=com.Microsoft.Teams
+Icon=/home/migue/.local/share/icons/hicolor/512x512/com.Microsoft.Teams.png
 Exec=/home/migue/Tweaks/nativefier-scripts/build/MicrosoftTeams-linux-x64/MicrosoftTeams
 Terminal=false
 Type=Application

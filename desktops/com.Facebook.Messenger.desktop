@@ -1,10 +1,20 @@
-#!/usr/bin/env xdg-open
 [Desktop Entry]
-Name=Messenger
-Comment=Facebook Messenger
-Icon=com.Facebook.Messenger
-Exec=/home/migue/Tweaks/nativefier-scripts/build/Messenger-linux-x64/Messenger
-Terminal=false
-Type=Application
-StartupWMClass=Messenger
 Categories=Internet;
+Comment[en_AU]=Facebook Messenger
+Comment=Facebook Messenger
+Exec=/home/migue/Tweaks/nativefier-scripts/build/Messenger-linux-x64/Messenger
+GenericName[en_AU]=
+GenericName=
+Icon=/home/migue/.local/share/icons/hicolor/512x512/com.Facebook.Messenger.png
+MimeType=
+Name[en_AU]=Messenger
+Name=Messenger
+Path=
+StartupNotify=true
+StartupWMClass=Messenger
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-RunOnDiscreteGpu=false
+X-KDE-SubstituteUID=false
+X-KDE-Username=

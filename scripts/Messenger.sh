@@ -1,0 +1,1 @@
+nativefier https://messenger.com ./build -n "Messenger" --tray start-in-tray --single-instance -i ./icons/Messenger.png --inject ./dark-mode/badDark.css --internal-urls ".*?\.facebook.com/checkpoint\.*?"

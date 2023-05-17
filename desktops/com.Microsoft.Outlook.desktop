@@ -2,9 +2,10 @@
 [Desktop Entry]
 Name=Outlook
 Comment=Microsoft Outlook
-Icon=/home/migue/.local/share/icons/hicolor/512x512/com.Microsoft.Outlook.png
-Exec=/home/migue/Tweaks/nativefier-scripts/build/Outlook-linux-x64/Outlook
+Icon=com.Microsoft.Outlook
+Exec=/home/migue/Tweaks/nativefier-scripts/build/Outlook-linux-x64/Outlook --enable-features=UseOzonePlatform --ozone-platform=wayland
 Terminal=false
 Type=Application
-StartupWMClass=Outlook
+StartupNotify=false
+StartupWMClass=com.Microsoft.Outlook
 Categories=Internet;Email;Office

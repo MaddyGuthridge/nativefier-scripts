@@ -2,9 +2,10 @@
 [Desktop Entry]
 Name=Microsoft Teams
 Comment=Microsoft Teams
-Icon=/home/migue/.local/share/icons/hicolor/512x512/com.Microsoft.Teams.png
-Exec=/home/migue/Tweaks/nativefier-scripts/build/MicrosoftTeams-linux-x64/MicrosoftTeams
+Icon=com.Microsoft.Teams
+Exec=/home/migue/Tweaks/nativefier-scripts/build/MicrosoftTeams-linux-x64/MicrosoftTeams --enable-features=UseOzonePlatform --ozone-platform=wayland
 Terminal=false
 Type=Application
-StartupWMClass=MicrosoftTeams
-Categories=Internet;Office;
+StartupNotify=false
+StartupWMClass=com.Microsoft.Teams
+Categories=Network;InstantMessaging;Office;

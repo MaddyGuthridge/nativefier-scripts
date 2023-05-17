@@ -1,17 +1,17 @@
 [Desktop Entry]
-Categories=Internet;
 Comment[en_AU]=Facebook Messenger
 Comment=Facebook Messenger
-Exec=/home/migue/Tweaks/nativefier-scripts/build/Messenger-linux-x64/Messenger
+Exec=/home/migue/Tweaks/nativefier-scripts/build/Messenger-linux-x64/Messenger --enable-features=UseOzonePlatform --ozone-platform=wayland
 GenericName[en_AU]=
 GenericName=
-Icon=/home/migue/.local/share/icons/hicolor/512x512/com.Facebook.Messenger.png
+Icon=com.Facebook.Messenger
 MimeType=
 Name[en_AU]=Messenger
 Name=Messenger
 Path=
-StartupNotify=true
-StartupWMClass=Messenger
+StartupNotify=false
+StartupWMClass=com.Facebook.Messenger
+Categories=Network;InstantMessaging;
 Terminal=false
 TerminalOptions=
 Type=Application

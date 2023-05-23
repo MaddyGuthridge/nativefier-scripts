@@ -3,7 +3,7 @@
         filter: invert(100%);
     }
 
-    html img {
+    img, image, video {
         filter: invert(100%);
     }
 }

@@ -41,3 +41,8 @@ To fix the icons for an app, go into it's build folder, then go to
 places.
 
 Fix grabbed from [this GitHub issue](https://github.com/nativefier/nativefier/issues/1276).
+
+## Todo
+
+- Use XDG commands to install the desktop files and icons rather than copying
+  them manually.

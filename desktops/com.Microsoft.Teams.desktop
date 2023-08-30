@@ -3,7 +3,7 @@
 Name=Microsoft Teams
 Comment=Microsoft Teams
 Icon=com.Microsoft.Teams
-Exec=/home/migue/Tweaks/nativefier-scripts/build/MicrosoftTeams-linux-x64/MicrosoftTeams --enable-features=UseOzonePlatform --ozone-platform=wayland
+Exec=/home/migue/Tweaks/nativefier-scripts/build/MicrosoftTeams-linux-x64/MicrosoftTeams --enable-features=WaylandWindowDecorations
 Terminal=false
 Type=Application
 StartupNotify=false

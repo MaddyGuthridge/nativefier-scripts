@@ -3,7 +3,7 @@
 Name=Outlook
 Comment=Microsoft Outlook
 Icon=com.Microsoft.Outlook
-Exec=/home/migue/Tweaks/nativefier-scripts/build/Outlook-linux-x64/Outlook --enable-features=UseOzonePlatform --ozone-platform=wayland
+Exec=/home/migue/Tweaks/nativefier-scripts/build/Outlook-linux-x64/Outlook --enable-features=WaylandWindowDecorations
 Terminal=false
 Type=Application
 StartupNotify=false

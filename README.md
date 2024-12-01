@@ -1,5 +1,8 @@
 # Nativefier scripts
 
+> :warning: Nativefier is archived, and so these scripts will produce insecure
+> apps. Don't use them.
+
 A collection of scripts and icons to make it speedier to "nativefy" web apps.
 
 You'll need [Nativefier](https://github.com/nativefier/nativefier) installed
